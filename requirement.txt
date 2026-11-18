@@ -1,4 +1,5 @@
 annotated-types==0.8.0
+anthropic==2.10.0
 anyio==4.16.0
 attrs==26.1.0
 boto3==1.44.5
@@ -14,6 +15,7 @@ httpcore2==2.16.2
 httpx==0.28.1
 httpx2==2.16.2
 idna==3.20
+jiter==0.19.0
 jmespath==1.1.0
 jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
@@ -36,6 +38,7 @@ referencing==0.37.0
 rpds-py==2026.9.1
 s3transfer==0.19.3
 six==1.17.0
+sniffio==1.3.1
 sse-starlette==3.7.0
 starlette==1.10.0
 strands-agents==1.65.0
